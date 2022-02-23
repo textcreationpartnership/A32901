@@ -1,0 +1,227 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Christs personal reign on earth one thousand yeers wih his saints the manner, beginning and continuation of his reign clearlie proved by many plain texts of Scripture and the chief objections against it fully answered : explaining the 20 of the Revelations and all other Scripture prophecies that treat of it, and of Satan being shut up for one thousand years that he shal not have power to deceive the nations during the thousand years.</title>
+            <author>Burden, William.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 31 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A32901</idno>
+            <idno type="STC">Wing C3968A</idno>
+            <idno type="STC">ESTC R26018</idno>
+            <idno type="EEBO-CITATION">09316671</idno>
+            <idno type="OCLC">ocm 09316671</idno>
+            <idno type="VID">42727</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A32901)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 42727)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1305:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Christs personal reign on earth one thousand yeers wih his saints the manner, beginning and continuation of his reign clearlie proved by many plain texts of Scripture and the chief objections against it fully answered : explaining the 20 of the Revelations and all other Scripture prophecies that treat of it, and of Satan being shut up for one thousand years that he shal not have power to deceive the nations during the thousand years.</title>
+                  <author>Burden, William.</author>
+               </titleStmt>
+               <extent>[4], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T. Lock for Wil. Burden,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Epistle dedicatory" signed: William Burden.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Revelation XX --  Commentaries.</term>
+               <term>Millennium.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:42727:1"/>
+            <pb facs="tcp:42727:1" rendition="simple:additions"/>
+            <p>CHRISTS Perſonal Reign On Earth, One Thouſand Yeers with his SAINTS.</p>
+            <p>The Manner, Beginning, and Continuation of his Reign clearlie proved, by many plain Texts of Scripture, and the chief Objections againſt it fully anſwered.</p>
+            <p>Explaining the 20. of the <hi>Reuelations,</hi> and all other Scripture-Propheſies that treat of it, and of Satan being ſhut up for One Thouſand Yeers, that he ſhal not have power to deceive the Nations during that Thouſand Yeers.</p>
+            <q>
+               <bibl>ISAIAH 8.20.</bibl>
+               <p>To the Law, and to the Teſtimony, if they ſpeak not accor<g ref="char:EOLhyphen"/>ding to this word, it is becauſe there is no light in them.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>T. Lock,</hi> for <hi>Wil. Burden,</hi> and are to bee ſold at his ſhop in Cannons-Street neer London<g ref="char:EOLhyphen"/>ſtone. 1654.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:42727:2"/>
+            <pb facs="tcp:42727:2"/>
+            <head>To all the ſincere-hearted Chri<g ref="char:EOLhyphen"/>ſtians, who are members of the Church of Jeſus Chriſt, and in viſible communion with his Saints by Baptiſm, and which have a deſire to be informed in that glorious truth of Chriſts viſible reign on earth with his Saints a thouſand yeers. Greeting,</head>
+            <p>
+               <seg rend="decorInit">D</seg>Early beloved in our Lord Je<g ref="char:EOLhyphen"/>ſus Chriſt, and right precious Chriſtian friends, to that end I may be inſtrumental to vin<g ref="char:EOLhyphen"/>dicate the truth of Ieſus, as al<g ref="char:EOLhyphen"/>ſo to build up the Saints in their moſt holy faith; and con<g ref="char:EOLhyphen"/>ſidering with my ſelf that the publiſhing of that precious truth, viz. The viſible Reign of Chriſt on earth with his Saints, might be one means by which I might be inſtrumental in ſo good a work; I was therefore ſo much the bol<g ref="char:EOLhyphen"/>der for to preſent this enſuing diſcourſe unto your moſt ſerious conſiderations, I being aſſu<g ref="char:EOLhyphen"/>red that through Gods bleſſing, it wil be pro<g ref="char:EOLhyphen"/>fitable unto you, when wel conſidered by you. Truly my friends, was it not ſo that I was ful<g ref="char:EOLhyphen"/>ly perſwaded that this is a truth which I here maintain, I ſhould not be ſo bold as to give it forth unto publike view, and ſhould hardly now have publiſhed this Treatiſe, but that I finde ſuch little entertainment of this truth a<g ref="char:EOLhyphen"/>mong
+<pb facs="tcp:42727:3"/>the ſons of men; and therefore the ra<g ref="char:EOLhyphen"/>ther it is expoſed unto oppoſition; but I que<g ref="char:EOLhyphen"/>ſtion not but that it wil ere long appear to be a truth of ſuch great Antiquity as from the A<g ref="char:EOLhyphen"/>poſtolical times, and how that it is an unrepea<g ref="char:EOLhyphen"/>led truth which hath been obſcure theſe many yeers, yet its now coming forth ſo gloriouſly, like the Sun at noon day, ſo as that it wil bee individual. Brethren, I know not how you wil reſent that which I have wrote; I hope you wil not have any occaſion to take it ill of mee, for as much as I deſire nothing more, than the promoting of the truth in this enſuing Diſ<g ref="char:EOLhyphen"/>courſe. I deſire that this my writing may no further finde acceptance by you, than you finde it mannaged according unto Scripture-record, for be you aſſured, that whoſoever ſpeaks not according unto that truth, it is becauſe they have no light in them, Eſai. 8.20. for you are to ſearch the Scriptures, for they teſtifie of Je<g ref="char:EOLhyphen"/>ſus Chriſt; As alſo of his truth, Ioh. 5.39. for my part, I ſhould bee loath that any of you ſhould have any cauſe to ſay of me, that I ſhould miſguide you, I had rather ſhut my ſelf up in ſilence, than that I ſhould be found by you ſuch an evil inſtrument, but I hope you are perſwa<g ref="char:EOLhyphen"/>ded better things of me than ſo, for this I can aſſure you, I have a clear conſcience both to<g ref="char:EOLhyphen"/>wards God &amp; Men, wiſhing and earneſtly long<g ref="char:EOLhyphen"/>ing to ſee your further growth in Chriſtianity, and your perfection in the Doctrine of Jeſus, that ſo you may be compleat in all the wil of God, then ſhal you ſhine gloriouſly, and appear
+<pb facs="tcp:42727:3"/>beautiful in the eys of our heavenly father, even then when you are compleatly built upon the foundation of the Apoſtles, and Prophets. Je<g ref="char:EOLhyphen"/>ſus Chriſt being the chief Cornerſtone of that Building, as is apparent, Eph. 2.20 21. then you will grow to a holy temple in the Lord, &amp; to a compleat City, and then when Zion is built up, the Lord wil appear in glory, Pſal. 102.16. which Scripture I deſire to leave upon your ſpirits; deſiring the Lord Jeſus to apply it home to you by his Spirit. I ſhal now commit this en<g ref="char:EOLhyphen"/>ſuing Diſcourſe unto you, deſiring that the Spi<g ref="char:EOLhyphen"/>rit of Moderation and of Chriſt may guide you, as in Phi. 4.5. Becauſe the Lord is at hand, wiſhing you to trie al things, &amp; to try this thing and to hold faſt that which is good; and if you recive any benefit by what is here declared, give God the glorie of it. And ſo I commit you to God, and to the word of his grace, which can perfect you in every good word and work, which shall be the continual prayer and ear<g ref="char:EOLhyphen"/>neſt endeavour of me,</p>
+            <closer>
+               <signed>Your dearlie Beloved Brother in Chriſt Ieſus, <hi>William Burden.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:42727:4"/>
+            <head>TO THE READER.</head>
+            <opener>
+               <salute>READER,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hou haſt here a ſmal piece preſented unto thy view; and if the Lord is pleaſed to bring it home to thy ſpirit, I hope it may be profi<g ref="char:EOLhyphen"/>table unto thee, to that end my deſire is that the Reader would ſeriouſly imploy his thoughts to conſider well of the ſubject matter contained in this little Book; deſiring him rather to affect ſoundneſs of matter than curioſity of ſpeech, and let not any prejudice which thou haſt againſt the perſon of the Author, prevent thee of recei<g ref="char:EOLhyphen"/>ving the truth, for god many times makes forth truth by ſuch inſtruments which are weak ones in the worlds eyes, for to manifeſt his own power, and to ſtop the fury of the enemies of his people, and to confound their wiſdom, <hi>1 Cor. 2.4.5. Pſa. 8.2, 3.</hi> Having thus far proceeded, I ſhall not willingly treſpaſs upon thy patience any further, only deſire that thou wouldſt deal with the Author according unto the Law of equity, even as thou wouldeſt be dealt by thy ſelf, hoping thou wilt not miſconſture any of my words, but that thou wilt deal fairly and ingenuouſly with me; which that thou mayeſt the better do, I ſhall commit thee unto the gui<g ref="char:EOLhyphen"/>dance of that good god, and unto the teaching of that ſweet Spirit in the Scriptures of truth, <hi>2 Tim. 3.16.17. 2 Pet. 1.20, 21.</hi> which is able to make thee wiſe unto ſalvation in caſe thou obey it, and to give thee an inheritance with the Saints in light, which ſhall be the humble prayer and earneſt endeavor of me, at all times, who am thy Servant in and for the truth.</p>
+            <closer>
+               <signed>W. B.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:42727:4"/>
+            <head>
+               <q>
+                  <bibl>Acts 1.11.</bibl> Yee men of Galilee, why ſtand yee gazing up into heaven? This ſame Ieſus which is taken up from you into hea<g ref="char:EOLhyphen"/>ven, ſhall ſo come in like manner, as yee have ſeen him go into heaven.</q>
+            </head>
+            <p>CHriſt is coming down from heaven, and to dwel with men upon earth for a thouſand yeers to deli<g ref="char:EOLhyphen"/>ver the whole mortal works and creatures of God on earth under heaven from the whole Principali<g ref="char:EOLhyphen"/>ties and powers of the Devil, for, and during that thou<g ref="char:EOLhyphen"/>ſand yeers, according to promiſe,
+<note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>: Peter 3.3.4.</note> doth <hi>Peter</hi> ſay to theſe unbelieving ſcoffers: But <hi>Beloved, be not ignorant of this one thing, that one day is with the Lord as a thouſand yeers.</hi> Therefore as the Lord was ſix days making the whole mortality very good, and man by his ſin did provoke God to curſe the ſame, with giving the Devil power over the whole-Man, ſo that man muſt alſo labor under the power of the Devil with the whole mortality for 6000. yeers. Therefore doth <hi>Peter</hi> ſay, <hi>that in the latter days,</hi> or towards the end of the 6000. yeers. Near to that coming of Chriſt there ſhalbe impatient unbelieving ſcoffers, that ſhal ſay, <hi>where is the promiſe</hi> or the fulfilling of the promiſe <hi>of his coming;</hi> unto whom <hi>Peter</hi> ſaith, <hi>Be not ignorant of this one thing, that one day is with the Lord as a thouſand yeers</hi> with man, or man cannot accompliſh that under ſix thouſand yeers, that God did in ſix days, even his working will. And as God did add a ſeaventh day of holy reſt unto his ſix days of labour: So man was from the begining to celebrate every ſeaventh day a holy day of reſt from labour, in remembrance of the ſure pro<g ref="char:EOLhyphen"/>miſe of Chriſt his coming to deliver man and the whole mortality, as <hi>Paul</hi> ſaith,
+<note place="margin">Rom. 8.21.22.23. Rev. 21.1.2.3.</note> 
+               <hi>the creature ſhall be delivered</hi> from the tyrannical power of the Devil for a thouſand yeers, <hi>into the glorious liberty of the Sonns of God,</hi> even for that thouſand yeers in which <hi>Iohn ſaw a new heaven and
+<pb n="2" facs="tcp:42727:5"/>a new earth, and the holy City new Jeruſalem comming down from God out of Heaven,</hi> with a great voice out of heaven, ſaying, <hi>Behold the tabernacle of God is with men, and he will dwell with them;
+<note place="margin">Rev: 20.6.</note> and they ſhell be his people</hi> (becauſe the Devil in, or during that time, ſhall have nothing to do with them) <hi>and God himſelf ſhall be with them, and be their God.</hi> Therefore ſaith <hi>Iohn, Bleſſed and holy is hee that hath part in the firſt reſurrection: becauſe on ſuch the ſecond death hath no power. But they ſhall be Prieſts of God and of Chriſt, and ſhall reign with him a thouſand yeers;</hi> according to the promiſe of God to Jeſus Chriſt: <hi>Sit thou at my right hand, until I make thine enemies thy foote-ſtoole.</hi> Even the Devill and all his power and wic<g ref="char:EOLhyphen"/>ked inſtruments, who are the enemies of Ieſus Chriſt and his members, and ſo taking the ſix days of Gods accompt, inwhich he made the whole mortality: and according to <hi>Peters</hi> accompt, ſix thouſand yeers of Mans miſery under the power of the Devil, by reaſon of ſin: and taking the ſeaventh day of Gods accompt, in which he, with all the works of his hands, reſted and kept a ho<g ref="char:EOLhyphen"/>ly day unto himſelf, and accompt a thouſand yeers deli<g ref="char:EOLhyphen"/>verance from the power of the devil, ſin, and death, in which God again will with man keep on earth a holy Sabboth or reſt, then and thereby are the promiſes of Chriſt his coming by <hi>Peter,</hi> confirmed by the works of God, under Gods accompt, of ſeven days in the begin<g ref="char:EOLhyphen"/>ning: but <hi>Peter</hi> for more certainty of this truth, notwith<g ref="char:EOLhyphen"/>ſtanding thoſe impatient unbelieving ſcoffers, queſtio<g ref="char:EOLhyphen"/>ning the ſame in the behalf of himſelf,
+<note place="margin">2 Pet. 3.13</note> and all the belie<g ref="char:EOLhyphen"/>ving members of Ieſus Chriſt of the promiſes of God in Chriſt,
+<note place="margin">2 Pet. 3.14</note> ſaith, <hi>Nevertheleſs we according to his</hi> (that is Gods) <hi>promiſe, look for a new heaven and a new earth, wherein awelleth righteouſneſs</hi> Unto ſuch ſaith <hi>Peter, Beloved, ſeeing that yee look for ſuch things, be diligent that yee may be found in peace, without ſpot, and blameleſs;</hi> be<g ref="char:EOLhyphen"/>cauſe they that ſhall enioy ſuch things ſaith <hi>Peter,
+<note place="margin">1 Pet. 2 9.</note> Are a choſen genertion, a royal prieſthood, a holy nation, a pe<g ref="char:EOLhyphen"/>culiar people.</hi> Being made ſo by the righteouſneſs of Ieſus Chriſt.</p>
+            <pb n="3" facs="tcp:42727:5"/>
+            <p>Secondly, the coming of Chriſt is manifeſted by the glory of God, as the Text ſaith, <hi>If Chriſt had not riſen from the dead, then had Chriſt dyed in vain:</hi> So likewiſe may it be ſaid, if Chriſt be perfect God, as wel as perfect man, (who for man took upon him the nature of man: by which on earth he was by his perfect obedience to redeem man from that Power of the Devil, which the Devil gained over man by mans diſobedience) it ſtands with the glory of God, for Chriſt, God on earth, to triumph over the Devil and all his power on earth, as well as to ſuffer under the devil and all his power on earth. Ieſus Chriſt as he was a mortal man, it was a glo<g ref="char:EOLhyphen"/>ry to him to ſuffer for ſinners, who himſelf ſinned not, as the Text ſaith, <hi>The iuſt ſuffers for the uniuſt.</hi> But if Jeſus Chriſt as he is God ſhould not triumph over his enemies as a Conqueror, his ſufferings would be coun<g ref="char:EOLhyphen"/>ted in vain on earth, therefore Ieſus Chriſt as he is God, for the glory of his God-head, by his ſervant <hi>Iohn</hi> revea<g ref="char:EOLhyphen"/>leth to His, who ſhall partake of that glory that ſhall be on earth, when the power of the Devil ſhall be done away. And when <hi>new beavens and a new earth, and the ho<g ref="char:EOLhyphen"/>ly City new Ieruſalem from heaven</hi> ſhall appear, then ſhall Ieſus Chriſt glorifie himſelf as <hi>God.</hi> over the Devil and all his works and powers, as that God <hi>by whom all things were created both in heaven and earth.</hi> And thus is Chriſt coming to reign on the earth proved by the pro<g ref="char:EOLhyphen"/>miſes of God, the works of God, and the glory of God.</p>
+            <p>
+               <hi>Queſt.</hi> What manner of glory will that be that Chriſt will have on earth amongſt his Saints, and what habita<g ref="char:EOLhyphen"/>tion will he reſide in?</p>
+            <p>
+               <hi>Anſw.</hi> It will be a heavenly glory, according to that which Chriſt deſired as a ſon from god, as a father, ſaying, <hi>Father glorifie thy Son with that glory, which he had with thee.</hi> Ieſus Chriſt amongſt men on earth prayed to be glorified amongſt men on earth, with a heavenly glory, that man on earth may ſee him a glorified god, and a conqueror of his enemies, as well as they did ſee him a deſpiſed and a ſuffering man under his enemies: Therefore and according to this doth <hi>Iohn</hi> after the pro<g ref="char:EOLhyphen"/>pheſie
+<pb n="4" facs="tcp:42727:6"/>of <hi>Eſay</hi> ſay, I <hi>ſaw a new heaven and a new earth, and the holy City new Jeruſalem coming down from god out of heaven, with a loud voyce,</hi> ſaying, <hi>behold the Taberna<g ref="char:EOLhyphen"/>cle of god is with men, and he will dwell with them.</hi> This glory for the fulneſs of it is not revealed, nor ſhall it be manifeſted unto men, until mens corruptions ſhall be done away, and that ſhall not be until the power of the Devil by the power of Chriſt ſhall be taken off of mortality, according to that of <hi>John; I ſaw an Angel come down from heaven, and he laid hold on the Devil, and bound him a thouſand years that he ſhould deceive the Na<g ref="char:EOLhyphen"/>tions or corrupt mortality no more, until thoſe thouſand yeare ſhould be fulfilled,</hi> or accompliſhed.</p>
+            <p>The heavenly glory is within the apprehenſion of no corrupted fleſh, further then the things of the fleſh doth behold: And the brighteſt glory of mortality is the Sun: And <hi>Iohn</hi> ſaith, that that glory ſhall paſs the glory of the Sun; inſomuch that <hi>that holy City new Jeruſalem, ſhall not need the light of the Sun: neither ſhall there be any night in it:</hi> But as in the Land of Egypt there was an exceeding darknes at noon-day. But in the land of Goſhen no dark<g ref="char:EOLhyphen"/>nes. So likewiſe during thoſe 1000. years in all the world there ſhal be night as wel as day: But <hi>in the new and hea<g ref="char:EOLhyphen"/>venly Jeruſalem there ſhall be no night at all.</hi> And this is all that god hath revealed concerning the fulneſs of that havenly glory, becauſe corrupted mortality can appre<g ref="char:EOLhyphen"/>hend no more: as <hi>Paul</hi> ſaith, <hi>If our hope were only in this mortal life, then we were of all men moſt miſerable</hi> to ſuffer affliction for hope of a better life. If we ſhould miſs of it. But ſaith he, <hi>Yet it doth not,</hi> or here it doth not appear <hi>what we ſhall be. But when mortality ſhall put on immortali<g ref="char:EOLhyphen"/>ty, and corruption ſhall be changed into interruption, then it will appear; for here we know but in part: But then ſhall we know as we are known.</hi> That is, wee who know Ieſus Chriſt as a ſufferer, and reſt upon the promiſes of God by faith in Ieſus Chriſt for a rewarder: Though now we here with Chriſt ſuffer for the ſame, ſhall then know God and Ieſus Chriſt in a heavenly glory, conqueringly, as they knew us here ſufferingly.</p>
+            <pb n="5" facs="tcp:42727:6"/>
+            <p>Secondly, beſides this heavenly glory which will in brightneſs paſs the glory of the Sun, Chriſt wil be glori<g ref="char:EOLhyphen"/>fied by <hi>new ereated heavens and earth,</hi> as <hi>Peter</hi> ſaith, That is, by reſtoring of the firmamental heavens, whereof now the Devil is prince, into that ſame condition they were by God created in, when God ſaw them to be very good, before man had ſinned, and they therefore corrupted by thoſe evil Inhabitants, the Devil and his Angels: And by reſtoring of the earth with all the creatures created of it by God in the beginning within the ſix firſt days: And that God when he had looked, <hi>ſaw them to be very good,</hi> to that ſame condition they were by god created in, be<g ref="char:EOLhyphen"/>fore man had ſinned. And they therefore and thereby were by the power of the Devil corrupted: This reſtora<g ref="char:EOLhyphen"/>tion after ſo long a continuance as almoſt ſix thouſand yeers, ſhall by men be ſuch a ſtrange alteration, as though it were rather a creation then an alteration: And they who never did ſee no other but the corrupted heavens, and earth, to ſee an uncorrupted heaven and earth, wil be to them as a new created heaven and earth. And none male, nor female, from <hi>Adam</hi> and <hi>Eve,</hi> ever ſaw any but a corrupted heaven and earth: becauſe the heavens and the eath were corrupted before they had any <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>; there<g ref="char:EOLhyphen"/>fore doth the Text ſay, that God <hi>will create new heavens &amp; new earth,</hi> becauſ the ſons of <hi>Adam</hi> never ſaw that very good condition the heavens &amp; the earth were at the firſt created in, and into which they ſhall be again reſtored.</p>
+            <p>Thirdly God, Chriſt on earth, will be gloryfied by a <hi>a holy City, a new Ieruſalem from God out of heaven;</hi> which ſhall in largneſs far paſs that old Ieruſalem builded by the Iews, though it was in <hi>Solomons</hi> time, the greateſt City in the whole world, as a <hi>City of twelve thouſand fur<g ref="char:EOLhyphen"/>longs ſquare;</hi> which is by eight furlongs to a mile, fifteen hundred miles ſquare, can paſs the largneſs of that old Ieruſalem; And this City ſhall ſo far paſs the old Jeruſa<g ref="char:EOLhyphen"/>lem in glory, as precious ſtones can ſurpaſs in glory ordi<g ref="char:EOLhyphen"/>nary ſtones, wood, buck, morter, iron, Steel, and braſs, in the foundations, walls and gates thereof. And the pavements of this City ſhall ſo far ſurpaſs in glory
+<pb n="6" facs="tcp:42727:7"/>the pavements of the old Jeruſalem, as poliſhed gold like tranſparent glaſs doth ſurpaſs pibble ſtones;
+<note place="margin">
+                  <hi>Rev.</hi> 21 &amp; 22.</note> as <hi>John</hi> at large expreſſeth the ſame: And the Temple in the City ſhall ſo far ſurpaſs in glory <hi>Solomons</hi> Temple, that was the glory of the old <hi>Jeruſalem,</hi> as the glory of God and Jeſus Chriſt doth ſurpaſs the glory of fine gold, which was the glory of that Temple, as the Text ſaith, <hi>The gold beautified the Temple.</hi> And this holy and great City ſhall be the reſiding place of <hi>GOD</hi> and Ieſus Chriſt on earth with all the faithfull members of Ieſus Chriſt from <hi>Abel</hi> to that day.</p>
+            <p>
+               <hi>Object.</hi> This relation of <hi>Iohn</hi> is to ſignifie and figure out Gods glorious Kingdom to eternity; and not that there ſhall ever be here on earth any ſuch glorious place or being.</p>
+            <p>
+               <hi>Anſw. That which is imposfible with man, is poſsible with god, who is able to do all things.</hi> And <hi>hath any man found God a lyar at any time, who is faithfull in all his pro<g ref="char:EOLhyphen"/>miſes,
+<note place="margin">2 <hi>Pet.</hi> 3.4.</note> and juſt in all his ways?</hi> But <hi>Peter</hi> ſaith, <hi>That in the latter days there ſhall be ſcoffers, who ſhall ſay, where is the promiſe of his coming? for all things continue as they were from the beginning;</hi> and ſo deny the word of truth. But ſaith <hi>Peter, We who are written in the Book of life. Never<g ref="char:EOLhyphen"/>wee according to his promiſe look for new heavens and a new earth wherein dwelleth righteouſneſs,</hi>
+               <note place="margin">2 <hi>Pet.</hi> 3:13.</note> which is Ieſus Chriſt, as <hi>John</hi> ſaith, <hi>J heard a great voyce out of heaven,</hi> ſaying <hi>Behold the Tabernacle of god is with men,
+<note place="margin">
+                     <hi>Rev.</hi> 21, 3.</note> and he wil dwell, with them, and they ſhall be his people, and god himſelf ſhall be with them, and be their god:</hi> as <hi>Solomon</hi> ſaith, <hi>it is true indeed,
+<note place="margin">1 <hi>King.</hi> 8 27. <hi>Rev.</hi> 22, 16.</note> that god will dwell on the earth,</hi> and for a ſure evidence of the ſame ſaith the Text, <hi>J Jeſus have ſent mine Angel to teſtifie unto you theſe things in the Churches:</hi> which things <hi>Peter</hi> queſtioned not, but to his Church ſaid, <hi>Beloved ſeeing that yee look for ſuch things, be diligent that yee may be found in peace, without ſpot and blameleſs.</hi> And to any Church that ſhall queſtion theſe things,
+<note place="margin">2 <hi>Pet.</hi> 3.14.</note> ſaith <hi>John. Theſe ſayings are faithful and true; for I Iohn ſaw and
+<pb n="7" facs="tcp:42727:7"/>heard theſe things;
+<note place="margin">
+                     <hi>Rev.</hi> 22.6, 16, 18</note> and J teſtifie unto every man that hea<g ref="char:EOLhyphen"/>reth the words of the Propheſie of this book,</hi> (whereſoever it is publiſhed) <hi>that if any man ſhal add too, or take away from the words of the Propheſie of this book, God ſhal take away his part out of the book of life;</hi> and alſo take away his Part out of the holy City; which City ſaith the Text <hi>lyeth four-ſquare, the length is as the bredth,
+<note place="margin">
+                     <hi>Rev.</hi> 21.16,</note> twelve thouſand furlongs; the ſquares lye Eaſt, Weſt, North, and South.</hi> The Eaſt and Weſt are derived from the antipodes of the riſing and ſetting of the <hi>Sun in the firmamental heavens, created on the fourth day.</hi> The North and the South are derived from the antipodes of the two ends of the worlds Axletree, called the North and ſouth pole, or the two frozen Zones of the earth by reaſon of the ſuns obſcurity and diſtance. This City is to be on earth, be<g ref="char:EOLhyphen"/>cauſe it lyeth four-ſquare, Eaſt, Weſt, North and ſouth; It is walled about, and ſo bounded. The length is as the bredth, twelve thouſand furlongs, which is fifteen hun<g ref="char:EOLhyphen"/>dred miles. The Text ſaith, <hi>in it there ſhall be no need of the ſun.</hi> But the Text doth not ſay that it is not within the compaſs of the ſun, therefore on earth; for in heaven gods glorious Kingdom, habitation and dwelling place is no ſun, and where there is no ſun, there can be no Eaſt, Weſt, North nor South; therefore this city cannot be meant nor underſtood to be heaven, but is meant and to be underſtood that ſuch a city ſhal be on earth.</p>
+            <p>Now the reaſon why theſe things of the Devils con<g ref="char:EOLhyphen"/>finement or impriſonment for a thouſand yeers, and the glorious new <hi>Jeruſalem</hi> with all its glorious accommo<g ref="char:EOLhyphen"/>dations promiſed, are not believed by us <hi>Gentiles,</hi> is this, As the Devil by his power in mortality deceived the Jews of the ſuffering comming of Jeſus Chriſt for mans redemption, though promiſed and propheſied of by the only looking for Jeſus Chriſt a conqueror, and King of Kings, according to the promiſes of a conquering Saviour by the Devils deceit, eſteeming his ſuffering Redeemers condition to be too mean a condition for the Son of god, and ſo therefore did not believe him to be the ſon of
+<pb facs="tcp:42727:8"/>God: but upon the Croſs ſaid unto him, <hi>If thou be the Son of God, come down from the Croſs, and then we wil be<g ref="char:EOLhyphen"/>lieve thee.</hi> And ſo the Devil Deceived the <hi>Iews,</hi> from their benefit of Ieſus Chriſt, his redeeming condition. And ſo alſo the Devil by his power in mortality goes a<g ref="char:EOLhyphen"/>bout to deceive us <hi>Gentiles</hi> of Jeſus Chriſt his glorious conquering, Princely condition, by putting on this mask of infidelity upon us <hi>gentiles,</hi> notwithſtanding all the ſure promiſes of God, that for Chriſt to come down out of heaven, and on earth to dwel in a walled City that is bounded, is too glorious a condition for man to be<g ref="char:EOLhyphen"/>hold, and for the earth to bare; and therefore through unbelief and the Devils deceit do ſcoffingly ſay, <hi>where is the promiſe of his coming?</hi> Expecting no other comming, but his comming to Iudgment: and ſo doth the Devil goe about to deceive us <hi>gentiles</hi> of our benefit of Chriſt his glorious conquering reign &amp; condition here on earth in that great holy City new <hi>Ieruſalem. Noah</hi> had three ſons, <hi>Shem, Ham,</hi> and <hi>Japhat. Noah</hi> was drunk, <hi>Ham</hi> jeers at his Fathers nakedneſs, and therefore is curſed and deprived of all the precious promiſes made to <hi>Noah</hi> and his ſeed. <hi>Shem</hi> and <hi>Japhat</hi> were ſorry and aſhamed to ſee their Fathers nakedneſs; and therefore going backward <hi>covered their Fathers nakedneſs,</hi> upon whom the promiſes of God to <hi>Noah</hi> were confirmed; not<g ref="char:EOLhyphen"/>withſtanding the ſaid confirmation of promiſes, inaſ<g ref="char:EOLhyphen"/>much as the Devils original power in, and over mortali<g ref="char:EOLhyphen"/>ty by <hi>Adam</hi> is not taken away, his deceit ceaſeth not; for as he did deceive the Iews of Chriſts ſuffering coming, ſo he laboureth to deceive us gentles of Chriſt his con<g ref="char:EOLhyphen"/>quoring comming, as he doth deceive the Heathen of both, who never have had in the one, nor ſhall have in the other any more benefit then the bruit beaſts; there<g ref="char:EOLhyphen"/>fore ſaith <hi>John without this C<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ty ſhall be dogs, murtherers, whoremangers, adulterers &amp; lyars,</hi> into whom the Devil when he ſhall be let looſe for a little ſeaſon, ſhal again enter into under the name of <hi>Gog</hi> and <hi>Magog,</hi> to make them more wicked then ever they were before, accor<g ref="char:EOLhyphen"/>ding to that Text, <hi>Out of whom the Devil is caſt, and re<g ref="char:EOLhyphen"/>turns
+<pb facs="tcp:42727:8"/>again, he carrieth with him ſeven worſe ſpirits then the former, and ſo the latter end of that man is worſe then the beginning,</hi> becauſe they have no ſhare or part in the book of life, nor in this holy City.</p>
+            <p>
+               <hi>Queſt.</hi> When wil the time of the comming of Chriſt be to reign on earth for 1000, yeers?</p>
+            <p>
+               <hi>Anſ.</hi> That man that wil declare more then God hath revealed, muſt be wiſer then God made him; for ſaith the Text, <hi>If an Angel from heaven teach any other doc<g ref="char:EOLhyphen"/>trine then what is delivered, believe him not.</hi> And as is alſo ſaid, <hi>if they wil not believe the Law and the Prophets, nei<g ref="char:EOLhyphen"/>ther wil they believe if one ſhould riſe from the dead.</hi> The preciſe time God hath concealed, therefore no man can declare it. But ſo far as God hath revealed, and preſi<g ref="char:EOLhyphen"/>dents of Scripture doe make out,
+<note place="margin">
+                  <hi>Gen.</hi> 3.</note> ſo far may a man ſup<g ref="char:EOLhyphen"/>poſe thus. Man was tempted by the devil to diſobey God,
+<note place="margin">
+                  <hi>Gen.</hi> 5.3.28. <hi>Gen.</hi> 7.6.</note> whoſe diſobedience God ſuffered from the crea<g ref="char:EOLhyphen"/>tion of <hi>Adam</hi> to <hi>Noahs</hi> flood, which was 1656. yeers.</p>
+            <p>And as God waited with patience on Satans deceived ones, 1656 yeers. In relation by compariſon to that may be ſuppoſed that <hi>John</hi> doth declare the time of Chriſt his patience, and waiting on Satan the deceiver; for as God in vengeance did not deſtroy the old world, until he with patience had ſuffered their evil mannners 1656, yeers. So may it be ſuppoſed that Chriſt will not deſtroy the power of Sathan the deceiver, until with patience hee hath waited, and born and ſuffered in himſelf and mem<g ref="char:EOLhyphen"/>bers, Sathans evils. 1666. years from his own birth; for <hi>Iohn</hi> ſaith, <hi>Here is wiſdom;
+<note place="margin">
+                     <hi>Rev.</hi> 13.18.</note> let him that hath underſtanding count the number of the beaſt; for it is the number of a man, and his number is</hi> 666. <hi>David</hi> in his days did number the days of a man to be 70. years, and <hi>Iohn</hi> here to 66. years, becauſe of the decay of nature; for it cannot be thought that mans life toward the end of the world, of which <hi>Iohn</hi> treats, ſhould be 666. but 66. may be, and alſo is commonly ſeen; by which ſuppoſition it may be gathe<g ref="char:EOLhyphen"/>red, that Chriſt with patience wil wait and forbare Sa<g ref="char:EOLhyphen"/>thans evils ten years longer then God did bare with the
+<pb n="10" facs="tcp:42727:9"/>old world. The one was 1656. years; and the other wil be 1666. years, according to this collection. Chriſt wil bare and ſuffer the evils of Sathan, before hee take ven<g ref="char:EOLhyphen"/>gence on the Devil, to deſtroy or confine his power, for a thouſand years until 1666. years from the birth of Ieſus Chriſt to deliver the whole mortality from the pow<g ref="char:EOLhyphen"/>er of the Devil,
+<note place="margin">
+                  <hi>Rom.</hi> 8.19, 20, 21, 22, 23.</note> as <hi>Paul</hi> ſaith, <hi>the fervent deſire of the creature waiteth when the Sons of God ſhall be revealed;</hi> for the creatures earneſtly deſire the revelation of the time that the Sons of God ſhall be delivered, <hi>becauſe the creature is ſubject to vanity, not of its own will, but by reaſon of him which hath ſubdued it under hope.</hi> The crea<g ref="char:EOLhyphen"/>ture did not offend, it was the man, male, and ſemale, <hi>Adam</hi> that did offend: but the creature becauſe it was created for man, muſt abide the curſe with man; there<g ref="char:EOLhyphen"/>fore <hi>the creatures alſo ſhall be delivered from the bondage of corruption into the glorious liberty of the Sons of God; for wee know that every creature groaneth with us alſo, and travelleth in pain together unto this preſent. And not only the creature, but wee alſo which are the firſt fruits of the Spirit, even we do ſigh in our ſelves, and wait for the adop<g ref="char:EOLhyphen"/>tion, even for the redemption of our bodies,</hi> or an aſſurance of our parts in the bleſſed firſt reſurrection, which ſhall bring us the redemption of our bodies, who are the adopted Sons of Ieſus Chriſt, by which bleſſed firſt reſur<g ref="char:EOLhyphen"/>rection ſhall our bodies be delivered out of the Devils priſon, the grave, and the bodies hell, to Gods Saints: againſt whom the Devil had no further power, but to kill our bodies, and to impriſon them in the mortall hell, the grave of earth, from whence our bodies came, and unto which we did expect they ſhould return again for a time and as the corn there lies in the earth, waiting with the Husband-man; for the firſt fruits of the ſpirit, which is that bleſſed firſt reſurrection of all that are dead in Chriſt, from <hi>Abel</hi> the firſt that dyed, and all others dead before, and the living then in the year of Chriſt, from the birth of Chriſt. 1666. ſhall be partakers of Ieſus Chriſt his glorious reign for that 1000 years of the Devils confinement or impriſonment.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:42727:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
